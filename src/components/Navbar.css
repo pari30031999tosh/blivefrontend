@@ -1,0 +1,42 @@
+.nav_container {
+    display: flex;
+    background-color: #527943;
+    padding-left: 10px;
+    height: 60px;
+    align-items: center;
+    gap: 10rem;
+    width: 100%;
+}
+
+.library_icon{
+    padding: 5px 5px 10px 5px;
+    margin-left: 20px;
+    background-color: aliceblue;
+    height: 20px
+}
+
+.library_icon:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.search {
+    width: 500px;
+    height: 40px;
+    
+    display: flex;
+    align-items: center;
+    gap: 0.1rem;
+}
+
+#search-bar{
+    margin-top: 5px;
+    width: 95%;
+    border-radius: 5px;
+}
+
+#search-btn{
+    margin-top: 5px;
+    width: 15%;
+    border-radius: 5px;
+}

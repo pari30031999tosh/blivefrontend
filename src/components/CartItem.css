@@ -1,0 +1,13 @@
+.CartItem{
+    border: 2px solid purple;
+    width: 60%;
+    height:100px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+#cart_item_details{
+    position: relative;
+    bottom: 15px;
+}

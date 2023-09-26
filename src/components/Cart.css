@@ -1,0 +1,6 @@
+.Cart_container{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,32 @@
+.signup_container{
+    height: 500px;
+    margin: 20px 20px 20px 20px;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup_child{
+    border: 2px solid purple;
+    flex-direction: column;
+    gap: 2rem;
+    display: flex;
+    border-radius: 10px;
+    position: relative; 
+    left:400px;
+    width: 350px;
+    height: 400px;
+    padding: 20px;
+}
+
+.signup_child input{
+    margin:0px 10px 0px 10px;
+    background-color: rgb(238, 237, 234);
+    border-radius: 4px;
+}
+
+.signup_child button{
+    margin: 0px 10px 0px 10px;
+    background-color: yellow;
+    border-radius: 4px;
+}

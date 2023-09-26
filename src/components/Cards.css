@@ -1,0 +1,15 @@
+.cards_container{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+    border: 5px solid purple;
+    padding-left: 10px;
+}
+
+#button_container{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    
+}
+
